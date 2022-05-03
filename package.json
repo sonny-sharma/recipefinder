@@ -11,13 +11,15 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Sonny Sharma",
+  "author": "Jonas Schedtmann",
   "license": "ISC",
   "dependencies": {
-    "@parcel/transformer-sass": "^2.5.0",
-    "core-js": "^2.6.5",
-    "fracty": "^1.0.9",
-    "parcel": "^2.5.0"
+    "core-js": "^3.22.4",
+    "fracty": "^1.0.9"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
   },
   "optionalDependencies": {
     "@parcel/css-linux-x64-gnu": "latest"
