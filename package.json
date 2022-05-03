@@ -18,5 +18,8 @@
     "core-js": "^2.6.5",
     "fracty": "^1.0.9",
     "parcel": "^2.5.0"
+  },
+  "optionalDependencies": {
+    "@parcel/css-linux-x64-gnu": "latest"
   }
 }
