@@ -1,6 +1,4 @@
-//! Polyfilling for old browser(Everything)
 import 'core-js/stable';
-//! polyfilling for async-await
 import 'regenerator-runtime/runtime';
 import { MODAL_CLOSE_SEC } from './config';
 import {
