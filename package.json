@@ -11,17 +11,13 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Sonny Sharma",
   "license": "ISC",
-  "devDependencies": {
-    "@parcel/transformer-sass": "^2.5.0",
-    "parcel": "^2.5.0"
-  },
   "dependencies": {
-    "core-js": "^3.22.2",
-    "fractional": "^1.0.0",
-    "fracty": "^1.0.11",
-    "regenerator-runtime": "^0.13.9"
+    "fracty": "^1.0.9"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
   }
 }
