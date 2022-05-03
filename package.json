@@ -14,10 +14,8 @@
   "author": "Sonny Sharma",
   "license": "ISC",
   "dependencies": {
-    "fracty": "^1.0.9"
-  },
-  "devDependencies": {
-    "@parcel/transformer-sass": "^2.4.1",
-    "parcel": "^2.4.1"
+    "@parcel/transformer-sass": "^2.5.0",
+    "fracty": "^1.0.9",
+    "parcel": "^2.5.0"
   }
 }
